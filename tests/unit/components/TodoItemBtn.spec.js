@@ -7,7 +7,7 @@ describe("TodoItemBtn.vue", () => {
       props: {
         task: {
           id: 1,
-          task: "Probar que funciona mi botom",
+          task: "Probar que funciona mi boton",
           isCompleted: false,
         },
       },
