@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1644286548873" clover="3.2.0">
+  <project timestamp="1644286548874" name="All files">
+    <metrics statements="76" coveredstatements="65" conditionals="1" coveredconditionals="1" methods="28" coveredmethods="19" elements="105" coveredelements="85" complexity="0" loc="76" ncloc="76" packages="5" files="11" classes="11"/>
+    <package name="src">
+      <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+      <file name="mixin.js" path="/home/ctola/projects/edteam/intro-vue3-test/src/mixin.js">
+        <metrics statements="7" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="3"/>
+        <line num="1" count="1" type="stmt"/>
+        <line num="3" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="15" count="0" type="stmt"/>
+        <line num="18" count="0" type="stmt"/>
+        <line num="21" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.components">
+      <metrics statements="37" coveredstatements="36" conditionals="0" coveredconditionals="0" methods="8" coveredmethods="7"/>
+      <file name="HelloWorld.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/HelloWorld.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="90" count="1" type="stmt"/>
+      </file>
+      <file name="MessageAsync.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/MessageAsync.vue">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="9" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="2" type="stmt"/>
+        <line num="14" count="2" type="stmt"/>
+        <line num="16" count="2" type="stmt"/>
+        <line num="17" count="2" type="stmt"/>
+        <line num="18" count="2" type="stmt"/>
+        <line num="20" count="1" type="stmt"/>
+        <line num="24" count="2" type="stmt"/>
+      </file>
+      <file name="Todo.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/Todo.vue">
+        <metrics statements="15" coveredstatements="14" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="2"/>
+        <line num="25" count="1" type="stmt"/>
+        <line num="26" count="1" type="stmt"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+        <line num="29" count="1" type="stmt"/>
+        <line num="30" count="1" type="stmt"/>
+        <line num="32" count="1" type="stmt"/>
+        <line num="48" count="1" type="stmt"/>
+        <line num="51" count="1" type="stmt"/>
+        <line num="52" count="1" type="stmt"/>
+        <line num="53" count="1" type="stmt"/>
+        <line num="75" count="1" type="stmt"/>
+        <line num="78" count="1" type="stmt"/>
+        <line num="79" count="0" type="stmt"/>
+        <line num="123" count="1" type="stmt"/>
+      </file>
+      <file name="TodoForm.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/TodoForm.vue">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="5" count="1" type="stmt"/>
+        <line num="6" count="1" type="stmt"/>
+        <line num="8" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="12" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="16" count="1" type="stmt"/>
+      </file>
+      <file name="TodoInfo.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/TodoInfo.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="9" count="1" type="stmt"/>
+      </file>
+      <file name="TodoItem.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/TodoItem.vue">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+        <line num="27" count="1" type="stmt"/>
+        <line num="28" count="1" type="stmt"/>
+      </file>
+      <file name="TodoItemBtn.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/components/TodoItemBtn.vue">
+        <metrics statements="1" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <line num="13" count="2" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.composables">
+      <metrics statements="23" coveredstatements="18" conditionals="1" coveredconditionals="1" methods="10" coveredmethods="7"/>
+      <file name="useTodo.js" path="/home/ctola/projects/edteam/intro-vue3-test/src/composables/useTodo.js">
+        <metrics statements="23" coveredstatements="18" conditionals="1" coveredconditionals="1" methods="10" coveredmethods="7"/>
+        <line num="4" count="2" type="cond" truecount="1" falsecount="0"/>
+        <line num="6" count="3" type="stmt"/>
+        <line num="9" count="3" type="stmt"/>
+        <line num="10" count="2" type="stmt"/>
+        <line num="11" count="2" type="stmt"/>
+        <line num="18" count="3" type="stmt"/>
+        <line num="20" count="0" type="stmt"/>
+        <line num="23" count="3" type="stmt"/>
+        <line num="24" count="0" type="stmt"/>
+        <line num="25" count="0" type="stmt"/>
+        <line num="27" count="0" type="stmt"/>
+        <line num="28" count="0" type="stmt"/>
+        <line num="32" count="3" type="stmt"/>
+        <line num="33" count="2" type="stmt"/>
+        <line num="36" count="3" type="stmt"/>
+        <line num="37" count="2" type="stmt"/>
+        <line num="38" count="5" type="stmt"/>
+        <line num="40" count="2" type="stmt"/>
+        <line num="43" count="3" type="stmt"/>
+        <line num="44" count="2" type="stmt"/>
+        <line num="45" count="5" type="stmt"/>
+        <line num="47" count="2" type="stmt"/>
+        <line num="50" count="3" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.services">
+      <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <file name="axios.js" path="/home/ctola/projects/edteam/intro-vue3-test/src/services/axios.js">
+        <metrics statements="2" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+        <line num="4" count="0" type="stmt"/>
+        <line num="5" count="0" type="stmt"/>
+      </file>
+    </package>
+    <package name="src.views">
+      <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <file name="Product.vue" path="/home/ctola/projects/edteam/intro-vue3-test/src/views/Product.vue">
+        <metrics statements="7" coveredstatements="7" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <line num="10" count="1" type="stmt"/>
+        <line num="11" count="1" type="stmt"/>
+        <line num="13" count="1" type="stmt"/>
+        <line num="15" count="1" type="stmt"/>
+        <line num="21" count="1" type="stmt"/>
+        <line num="22" count="1" type="stmt"/>
+        <line num="24" count="1" type="stmt"/>
+      </file>
+    </package>
+  </project>
+</coverage>
